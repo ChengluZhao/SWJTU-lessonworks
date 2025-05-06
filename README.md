@@ -1,4 +1,4 @@
-# SWJTU-lessonworks
+# SWJTU-lessonworks-MDFZ
 Some lesson works of SWJTU, You can draw on it but not copy it.
 
   西南交通大学  2024-2025第1学期
